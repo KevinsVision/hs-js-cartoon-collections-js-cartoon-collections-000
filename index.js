@@ -9,6 +9,8 @@ function dwarfRollCall(dwarves) {
    return string
 }
 
+
+
 function summonCaptainPlanet(planeteerCalls){
   var array = []
   var i = 0
@@ -19,6 +21,7 @@ function summonCaptainPlanet(planeteerCalls){
   }
   return array
 }
+
 
 
 function longPlaneteerCalls(words) {
@@ -48,3 +51,13 @@ function findTheCheese(foods) {
   }
   return "no cheese!"
 }
+
+
+function wordsWithB(words) {
+  var array = []
+ for (i = 0; i < words.length; i++)
+  if (startsWith('B') )
+  return 
+}
+
+
